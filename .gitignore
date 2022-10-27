@@ -2,3 +2,5 @@
 .DS_Store
 .idea
 front-react/recipes-react/node_modules
+front-react/recipes-react/.idea
+venv
